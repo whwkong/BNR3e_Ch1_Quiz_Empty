@@ -1,0 +1,4 @@
+#ignore custom user data
+Quiz_Empty/Quiz_Empty.xcodeproj/project.xcworkspace
+Quiz_Empty/Quiz_Empty.xcodeproj/xcuserdata
+
